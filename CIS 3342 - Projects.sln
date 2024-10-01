@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS 3342 - Projects", "CIS 3342 - Projects\CIS 3342 - Projects.csproj", "{ABAB10D1-358F-45A7-9CAE-766BB2CBFC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-1-Student-Feedback-Form", "CIS-3344-Project 1-Student Feedback Form\Project-1-Student-Feedback-Form.csproj", "{E4F79FAB-AA96-4113-B642-AB07ADB7691F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-2-Dream-Home-Builder", "Project-2-Dream-Home-Builder\Project-2-Dream-Home-Builder.csproj", "{05557823-AD51-4175-B38D-D36F32FD3E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeBuilderLibrary", "HomeBuilderLibrary\HomeBuilderLibrary.csproj", "{8646A9EB-44C0-4D55-AB85-57001C2550B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{9E05BD68-45F5-42F0-99B7-304A891CAF32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-3-Online-Dating-Site", "Project-3-Online-Dating-Site\Project-3-Online-Dating-Site.csproj", "{10386D93-DF38-42FF-B670-CCC5C2CFB324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineDatingSiteLibrary", "OnlineDatingSiteLibrary\OnlineDatingSiteLibrary.csproj", "{E4E9904C-57E3-43F3-9C8C-A64953E94929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAB10D1-358F-45A7-9CAE-766BB2CBFC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAB10D1-358F-45A7-9CAE-766BB2CBFC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAB10D1-358F-45A7-9CAE-766BB2CBFC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAB10D1-358F-45A7-9CAE-766BB2CBFC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F79FAB-AA96-4113-B642-AB07ADB7691F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F79FAB-AA96-4113-B642-AB07ADB7691F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F79FAB-AA96-4113-B642-AB07ADB7691F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F79FAB-AA96-4113-B642-AB07ADB7691F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05557823-AD51-4175-B38D-D36F32FD3E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05557823-AD51-4175-B38D-D36F32FD3E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05557823-AD51-4175-B38D-D36F32FD3E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05557823-AD51-4175-B38D-D36F32FD3E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8646A9EB-44C0-4D55-AB85-57001C2550B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8646A9EB-44C0-4D55-AB85-57001C2550B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8646A9EB-44C0-4D55-AB85-57001C2550B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8646A9EB-44C0-4D55-AB85-57001C2550B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E05BD68-45F5-42F0-99B7-304A891CAF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E05BD68-45F5-42F0-99B7-304A891CAF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E05BD68-45F5-42F0-99B7-304A891CAF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E05BD68-45F5-42F0-99B7-304A891CAF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10386D93-DF38-42FF-B670-CCC5C2CFB324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10386D93-DF38-42FF-B670-CCC5C2CFB324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10386D93-DF38-42FF-B670-CCC5C2CFB324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10386D93-DF38-42FF-B670-CCC5C2CFB324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E9904C-57E3-43F3-9C8C-A64953E94929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E9904C-57E3-43F3-9C8C-A64953E94929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E9904C-57E3-43F3-9C8C-A64953E94929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E9904C-57E3-43F3-9C8C-A64953E94929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E70ED07-9375-4A25-A0E7-AEF75BD5F54F}
+	EndGlobalSection
+EndGlobal
